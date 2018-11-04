@@ -1,0 +1,11 @@
+﻿he	anh ấy
+she	cô ấy
+it	no
+me	tôi
+buy	mua
+transport	phương tiện
+translate	dịch
+transform	biến đổi
+transit	con đường
+hi	xin chào
+

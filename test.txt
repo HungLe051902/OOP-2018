@@ -1,0 +1,5 @@
+﻿hi	chào
+hello	chào
+buy	mua
+think	nghĩ
+no	không
