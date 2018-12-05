@@ -1,3 +1,3 @@
 #  OOP-2018
-#  BT1 - Từ điển bằng java swing
+#  BTL1 - Từ điển bằng java swing
    
